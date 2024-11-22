@@ -17,7 +17,7 @@ Questo progetto è un blog dedicato alla vita di un Golden Retriever di nome Gol
 
 1. Clonare il repository:
    ```bash
-   git clone https://github.com/tuo-utente/dog-blog.git
+   git clone https://github.com/CarloMeazza/DogBlog
    ```
 2. Creare un ambiente virtuale:
    ```bash
